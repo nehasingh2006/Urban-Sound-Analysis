@@ -1,6 +1,5 @@
 # Urban Sound Analysis - Sound Classification
 
-**Complete Video Tutorial:** https://youtu.be/eA7G9IjN8Xk
 
 # Dataset Information
 
