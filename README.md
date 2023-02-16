@@ -28,7 +28,6 @@ This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10
 
 # Neural Network
 
-
 <li>Basic Dense Neural Network
   
 **Accuracy:** 93.00
